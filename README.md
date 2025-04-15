@@ -70,6 +70,6 @@ Systems and Computing Engineer with experience in software development and techn
 
 <div align="center">
 
-📫 How to reach me: [floresquintero.da@gmail.com](mailto:floresquintero.da@gmail.com)
+📫 How to reach me: [juanxy90@hotmail.com](mailto:juanxy90@hotmail.com)
 
 </div>
