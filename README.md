@@ -37,9 +37,9 @@ Systems and Computing Engineer with experience in software development and techn
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegnghtmr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=diegnghtmr&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=juanxy90&theme=tokyonight&hide_border=true)
 
-[![Top Langs](https://github-readme-stats-diegoafloresq-uqvirtualeds-projects.vercel.app/api/top-langs/?username=diegnghtmr&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/diegnghtmr)
+[![Top Langs](https://github-readme-stats-diegoafloresq-uqvirtualeds-projects.vercel.app/api/top-langs/?username=diegnghtmr&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/juanxy90)
 
 </div>
 
@@ -47,8 +47,7 @@ Systems and Computing Engineer with experience in software development and techn
 
 ### 🏆 Certifications & Achievements
 
-- **Intermediate French Certification** – Alianza Francesa de Armenia
-- **Intermediate English Certification** – English Academy ASI
+
 
 ---
 
