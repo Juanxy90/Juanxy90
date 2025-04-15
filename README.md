@@ -37,7 +37,7 @@ Systems and Computing Engineer with experience in software development and techn
 
 ![Juanxy90's Stats](https://github-readme-stats.vercel.app/api?username=Juanxy90&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Juanxy90)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Juanxy90&theme=midnight-purple&hide_border=true)
 
 [![Top Langs](https://github-readme-stats-diegoafloresq-uqvirtualeds-projects.vercel.app/api/top-langs/?username=diegnghtmr&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/juanxy90)
 
