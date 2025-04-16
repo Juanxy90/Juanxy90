@@ -116,8 +116,10 @@ contributing to impactful software projects.
 
 <h4 align = "center"
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanxy90&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanxy90&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=juanxy90&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </h4>
 
 <br>
@@ -133,11 +135,8 @@ contributing to impactful software projects.
 
 <div align="center">
 
-![Juanxy90's Stats](https://github-readme-stats.vercel.app/api?username=Juanxy90&theme=midnight-purple&show_icons=true&hide_border=false&include_all_commits=false&count_private=true)
-<br>
-</br>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Juanxy90&theme=midnight-purple&hide_border=false)
-
+![](https://github-readme-stats.vercel.app/api?username=juanxy90&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=juanxy90&theme=midnight-purple&hide_border=false)<br/>
 
 </div>
 
@@ -163,6 +162,12 @@ contributing to impactful software projects.
 🏅 Certifications & Achievements:
 
 </h2>
+
+<div align="center">
+
+## In the future...
+
+</div>
 
 <h2 align="left" 
 
