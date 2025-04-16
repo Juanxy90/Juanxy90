@@ -1,3 +1,219 @@
+<h1> Hi everyone! </h1>
+
+<h2> Who am I? </h2>
+
+<img align="left" src="https://github.com/user-attachments/assets/7cc3511b-a219-4f84-9db2-e49769359541" alt="IconGit" width="250">
+
+```java                                                                       
+public static Person characteristics (Gender pronouns, String name,
+                                        Education education, String from,
+                                              ArrayList<String> specialization,
+                                                      ArrayList<String> hobbies) {
+
+  Person person = new Person();
+
+  person.setPronouns() = "He", "His";
+  person.setName() = "Juan Pablo Mora Ramirez";
+  person.setFrom() = "Armenia, Quindío - Colombia";
+  person.setEducation = ["Systems and Computer Engineer"];
+  person.getSpecialization.addAll ("Backend", "Frontend", "DataBase");
+  person.getHobbies.addAll ("Soccer", "Music", "Progaming", "Gaming", "Science");
+
+System.out.println("""
+
+                       If you can imagine it, you can program it
+                                                                  - Alan Kay
+
+                   """);
+
+return person;
+}
+```
+---
+
+<h2 align = "right" 
+  
+🚀 About Me
+
+</h2>
+
+
+<img align="right" src="https://github.com/user-attachments/assets/b60a3757-f9cf-4088-8b2d-395288f4b79d" alt="IconGit" width="350">
+
+
+
+````bash
+An enthusiast of software and hardware, music, literature, and cinema. 👾 
+
+💻 Up-and-coming programmer:
+Im passionate about coding, skilled in multiple programming languages,
+and currently focused on 'Backend development', although Im equally
+strong in 'Frontend'. My goal is to build scalable, efficient apps—and,
+of course, be the creator of the T-800.
+
+🎸 Lover of music:
+Rock, Jazz, and Heavy Metal (and its variants) are part of who I am.
+I often play the guitar and aspire to one day perform at Wacken Open Air.
+Podt: Lemmy is my god.
+
+📖 Constant Reader:
+I must admit that I’m a fanatic for romance novels and horror; they make
+up a large part of who I am. From The Taxidermist to Pet Sematary.
+
+````
+
+<h2 align="center" 
+
+---
+---
+
+💻 Tech Stack:
+  
+</h2>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+
+</div>
+
+<h4 align = "center"
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanxy90&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</h4>
+
+<br>
+
+<h2 align="center" 
+
+---
+---
+
+📊 GitHub Stats:
+
+</h2>
+
+<div align="center">
+
+![Juanxy90's Stats](https://github-readme-stats.vercel.app/api?username=Juanxy90&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Juanxy90&theme=midnight-purple&hide_border=true)
+
+</div>
+
+<h2 align="center" 
+
+---
+---
+
+🌐 Socials:
+  
+</h2>
+
+<h3 align= "center"
+
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Juanxy90) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Juanxy90) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Juanxy90) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Juanxy90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Juanxy90) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juanxy90) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@|Juanxy90) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Juanxy90) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Juanxy90) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Juanxy90) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Juanxy90) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Juanxy90) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Juanxy90) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Juanxy90) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Juanxy90) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Juanxy90) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Juanxy90) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanxy90@hotmail.com) </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</h3>
+
+<h2 align="center" 
+
+---
+---
+
+🏆 GitHub Trophies
+  
+</h2>
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Juanxy90&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+<h2 align="center" 
+
+---
+---
+
+✍️ Random Dev Quote
+  
+</h2>
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<h2 align="center" 
+
+---
+---
+
+🔝 Top Contributed Repo
+  
+</h2>
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Juanxy90&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+
+</div>
+
+[![](https://visitcount.itsvg.in/api?id=Juanxy90&icon=9&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+<h2 align="center" 
+
+🏆 Certifications & Achievements
+
+</h2>
+
+---
+
+<h2 align="center"
+
+📚 Featured Projects
+
+</h2>
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=tokyonight)](https://github.com/diegnghtmr/virtual-wallet)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=banking-system-project&theme=tokyonight)](https://github.com/diegnghtmr/banking-system-project)
+
+</div>
+
+---
+
+<h2 align="center" 
+
+🐍 Contribution Graph
+
+</h2>
+
+<div align="center">
+
+![snake gif](https://github.com/diegnghtmr/diegnghtmr/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+📫 How to reach me: [juanxy90@hotmail.com](mailto:juanxy90@hotmail.com)
+
+</div>
+
+
+
+
 # Juan Pablo Mora Ramirez
 
 ## 👨‍💻 Systems and Computing Engineer | Software Developer
@@ -15,61 +231,3 @@ Systems and Computing Engineer with experience in software development and techn
 - 🎯 2025 Goals: Master advanced algorithms and contribute to open-source projects.
 - 🏅 Competitive Programming Competitor.
 - 🌍 Intermediate in both English and French.
-
----
-
-### 🛠️ Technologies & Tools
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Juanxy90's Stats](https://github-readme-stats.vercel.app/api?username=Juanxy90&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Juanxy90&theme=midnight-purple&hide_border=true)
-
-[![Top Langs](https://github-readme-stats-diegoafloresq-uqvirtualeds-projects.vercel.app/api/top-langs/?username=diegnghtmr&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/juanxy90)
-
-</div>
-
----
-
-### 🏆 Certifications & Achievements
-
-
-
----
-
-### 📚 Featured Projects
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=tokyonight)](https://github.com/diegnghtmr/virtual-wallet)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=banking-system-project&theme=tokyonight)](https://github.com/diegnghtmr/banking-system-project)
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-![snake gif](https://github.com/diegnghtmr/diegnghtmr/blob/output/github-snake-dark.svg)
-
----
-
-<div align="center">
-
-📫 How to reach me: [juanxy90@hotmail.com](mailto:juanxy90@hotmail.com)
-
-</div>
