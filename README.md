@@ -3,7 +3,7 @@
   👨‍💻 Systems and Computing Engineer | Software Developer
 </br>
 </h1>
-<h2> Who am I? </h2>
+<h2> 🤷‍♂️ Who am I? </h2>
 
 ```java                                                                       
 public static Person characteristics (Gender pronouns, String name,
@@ -18,7 +18,7 @@ public static Person characteristics (Gender pronouns, String name,
   person.setFrom() = "Armenia, Quindío - Colombia";
   person.setEducation = ["Systems and Computer Engineer"];
   person.getSpecialization.addAll ("Backend", "Frontend", "DataBase");
-  person.getHobbies.addAll ("Soccer", "Music", "Progaming", "Gaming", "Science");
+  person.getHobbies.addAll ("Soccer", "Music", "Progaming", "Gaming", "Study");
 
 System.out.println("""
 
@@ -41,18 +41,22 @@ return person;
 ````
 Juan Pablo Mora Ramirez
 
-Systems and Computer Engineer – Universidad del Quindío 🇨🇴
+Systems and Computer Engineer – University of Quindío 🇨🇴
 
-I am a Colombian Systems and Computer Engineer from Universidad del Quindío, with strong knowledge in software development,
-databases, and mathematical algorithms. I’m passionate about building technology-driven solutions that create value and
-improve processes, both from a technical and a business perspective.
+Systems and Computing Engineer from Universidad del Quindío, Colombia, with experience in software development and technology
+project management. I’m passionate about innovation and collaboration, and I seek opportunities to apply my technical expertise
+and soft skills in dynamic and challenging environments.
 
-I have experience working with Java, as well as designing, modeling, and managing information systems. My background in
-business management also gives me a broader view of tech projects, allowing me to combine technical skills with strategic
-thinking.
+I have a solid foundation in Java, databases, information systems, and mathematical algorithms. My background also includes
+business management, allowing me to approach technology projects with both a technical and strategic mindset. Proficient in agile
+methodologies and collaboration tools, I adapt quickly to new technologies while always aiming for efficient, high-quality solutions.
 
-I'm focused on continuous learning, contributing to collaborative teams, and staying up-to-date with emerging technologies
-to keep delivering meaningful impact.
+🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
+🎯 2025 Goals: Master advanced algorithms and contribute to open-source projects.
+🧠 Deeply interested in continuous learning and solving complex problems.
+🌍 Intermediate level in English | Native Spanish speaker.
+
+I'm focused on continuous growth, working with multidisciplinary teams, and contributing to impactful software projects.
 
 ````
 
@@ -128,21 +132,6 @@ to keep delivering meaningful impact.
 
 </div>
 
-<h2 align="left" 
-
----
----
-
-🌐 Socials:
-  
-</h2>
-
-<h3 align= "center"
-
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Juanxy90) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Juanxy90) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Juanxy90) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Juanxy90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Juanxy90) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juanxy90) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@|Juanxy90) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Juanxy90) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Juanxy90) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Juanxy90) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Juanxy90) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Juanxy90) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Juanxy90) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Juanxy90) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Juanxy90) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Juanxy90) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Juanxy90) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanxy90@hotmail.com) </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-</h3>
-
 <h2 align="right" 
 
 ---
@@ -158,20 +147,14 @@ to keep delivering meaningful impact.
 
 </div>
 
+
+---
+
 <h2 align="left" 
 
----
----
+🏆 Certifications & Achievements
 
-✍️ Random Dev Quote
-  
 </h2>
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 <h2 align="right" 
 
@@ -194,14 +177,6 @@ to keep delivering meaningful impact.
 
 ---
 
-<h2 align="left" 
-
-🏆 Certifications & Achievements
-
-</h2>
-
----
-
 <h2 align="right"
 
 📚 Featured Projects
@@ -214,6 +189,55 @@ to keep delivering meaningful impact.
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=banking-system-project&theme=tokyonight)](https://github.com/diegnghtmr/banking-system-project)
 
 </div>
+
+<h2 align="left" 
+
+---
+---
+
+✍️ Random Dev Quote
+  
+</h2>
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<h2 align="left" 
+
+---
+
+🌐 Socials:
+  
+</h2>
+
+<h3 align= "center"
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juanxy90)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanxy90@hotmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Juanxy90)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Juanxy90)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Juanxy90)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Juanxy90)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Juanxy90)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Juanxy90)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Juanxy90)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Juanxy90)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Juanxy90)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Juanxy90)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Juanxy90)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@|Juanxy90)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Juanxy90)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Juanxy90)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Juanxy90)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Juanxy90)
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</h3>
 
 ---
 
@@ -236,12 +260,3 @@ to keep delivering meaningful impact.
 📫 How to reach me: [juanxy90@hotmail.com](mailto:juanxy90@hotmail.com)
 
 </div>
-
-### 🚀 About Me
-
-Systems and Computing Engineer with experience in software development and technology project management. Passionate about innovation and collaboration, I seek opportunities to apply my technical expertise and soft skills in dynamic environments. Proficient in agile methodologies and collaboration tools, I easily adapt to new technologies while prioritizing efficient, high-quality solutions.
-
-- 🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
-- 🎯 2025 Goals: Master advanced algorithms and contribute to open-source projects.
-- 🏅 Competitive Programming Competitor.
-- 🌍 Intermediate in both English and French.
