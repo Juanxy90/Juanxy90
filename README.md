@@ -116,7 +116,7 @@ contributing to impactful software projects.
 
 <h4 align = "center"
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanxy90&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanxy90&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </h4>
 
@@ -133,8 +133,10 @@ contributing to impactful software projects.
 
 <div align="center">
 
-![Juanxy90's Stats](https://github-readme-stats.vercel.app/api?username=Juanxy90&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Juanxy90&theme=midnight-purple&hide_border=true)
+![Juanxy90's Stats](https://github-readme-stats.vercel.app/api?username=Juanxy90&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false)
+<br>
+</br>
+![GitHub Streak](https://streak-stats.demolab.com?user=Juanxy90&theme=midnight-purple&hide_border=false)
 
 </div>
 
