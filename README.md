@@ -190,8 +190,7 @@ contributing to impactful software projects.
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=tokyonight)](https://github.com/diegnghtmr/virtual-wallet)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=banking-system-project&theme=tokyonight)](https://github.com/diegnghtmr/banking-system-project)
+[![Repo Juanxy90](https://github-readme-stats.vercel.app/api/pin/?username=Juanxy90&repo=Juanxy90&theme=midnight-purple)](https://github.com/Juanxy90/Juanxy90)
 
 </div>
 
