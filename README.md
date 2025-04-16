@@ -35,23 +35,19 @@ return person;
 
 </h2>
 
-````bash
-An enthusiast of software and hardware, music, literature, and cinema. 👾 
+````
+Juan Pablo Mora Ramírez
+Systems and Computer Engineering – Universidad del Quindío 🇨🇴
 
-💻 Up-and-coming programmer:
-Im passionate about coding, skilled in multiple programming languages,
-and currently focused on 'Backend development', although Im equally
-strong in 'Frontend'. My goal is to build scalable, efficient apps—and,
-of course, be the creator of the T-800.
+I am a Colombian Systems and Computer Engineer from Universidad del Quindío, with strong knowledge in software development,
+databases, and mathematical algorithms. I’m passionate about building technology-driven solutions that create value and
+improve processes, both from a technical and a business perspective.
 
-🎸 Lover of music:
-Rock, Jazz, and Heavy Metal (and its variants) are part of who I am.
-I often play the guitar and aspire to one day perform at Wacken Open Air.
-Podt: Lemmy is my god.
+I have experience working with Java, as well as designing, modeling, and managing information systems. My background in
+business management also gives me a broader view of tech projects, allowing me to combine technical skills with strategic thinking.
 
-📖 Constant Reader:
-I must admit that I’m a fanatic for romance novels and horror; they make
-up a large part of who I am. From The Taxidermist to Pet Sematary.
+I'm focused on continuous learning, contributing to collaborative teams, and staying up-to-date with emerging technologies
+to keep delivering meaningful impact.
 
 ````
 
