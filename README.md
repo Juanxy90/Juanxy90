@@ -44,8 +44,8 @@ Juan Pablo Mora Ramirez
 Systems and Computer Engineer – University of Quindío 🇨🇴
 
 Systems and Computing Engineer from Universidad del Quindío, Colombia, with experience in software development and technology
-project management. I’m passionate about innovation and collaboration, and I seek opportunities to apply my technical expertise
-and soft skills in dynamic and challenging environments.
+project management. I’m passionate about innovation and collaboration, and I seek opportunities to apply my technical
+expertise and soft skills in dynamic and challenging environments.
 
 I have a solid foundation in Java, databases, information systems, and mathematical algorithms. My background also includes
 business management, allowing me to approach technology projects with both a technical and strategic mindset. Proficient in
@@ -53,9 +53,9 @@ agile methodologies and collaboration tools, I adapt quickly to new technologies
 high-quality solutions.
 
 🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
-🎯 2025 Goals: Master advanced algorithms and contribute to open-source projects.
+🎯 Goals: Master advanced algorithms and contribute to open-source projects.
 🧠 Deeply interested in continuous learning and solving complex problems.
-🌍 Intermediate level in English | Native Spanish speaker.
+🌍 Intermediate level in English 🇺🇸 | Native Spanish speaker 🇪🇦.
 
 I'm focused on continuous growth, working with multidisciplinary teams, and contributing to impactful software projects.
 
