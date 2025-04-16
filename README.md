@@ -133,10 +133,11 @@ contributing to impactful software projects.
 
 <div align="center">
 
-![Juanxy90's Stats](https://github-readme-stats.vercel.app/api?username=Juanxy90&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false)
+![Juanxy90's Stats](https://github-readme-stats.vercel.app/api?username=Juanxy90&theme=midnight-purple&show_icons=true&hide_border=false&include_all_commits=false&count_private=true)
 <br>
 </br>
-![GitHub Streak](https://streak-stats.demolab.com?user=Juanxy90&theme=midnight-purple&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Juanxy90&theme=midnight-purple&hide_border=false)
+
 
 </div>
 
