@@ -2,8 +2,6 @@
 
 <h2> Who am I? </h2>
 
-<img align="left" src="https://github.com/user-attachments/assets/7cc3511b-a219-4f84-9db2-e49769359541" alt="IconGit" width="250">
-
 ```java                                                                       
 public static Person characteristics (Gender pronouns, String name,
                                         Education education, String from,
@@ -36,11 +34,6 @@ return person;
 🚀 About Me
 
 </h2>
-
-
-<img align="right" src="https://github.com/user-attachments/assets/b60a3757-f9cf-4088-8b2d-395288f4b79d" alt="IconGit" width="350">
-
-
 
 ````bash
 An enthusiast of software and hardware, music, literature, and cinema. 👾 
