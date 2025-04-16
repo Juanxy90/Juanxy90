@@ -37,6 +37,7 @@ return person;
 
 ````
 Juan Pablo Mora Ramírez
+
 Systems and Computer Engineering – Universidad del Quindío 🇨🇴
 
 I am a Colombian Systems and Computer Engineer from Universidad del Quindío, with strong knowledge in software development,
@@ -44,7 +45,8 @@ databases, and mathematical algorithms. I’m passionate about building technolo
 improve processes, both from a technical and a business perspective.
 
 I have experience working with Java, as well as designing, modeling, and managing information systems. My background in
-business management also gives me a broader view of tech projects, allowing me to combine technical skills with strategic thinking.
+business management also gives me a broader view of tech projects, allowing me to combine technical skills with strategic
+thinking.
 
 I'm focused on continuous learning, contributing to collaborative teams, and staying up-to-date with emerging technologies
 to keep delivering meaningful impact.
