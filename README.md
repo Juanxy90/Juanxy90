@@ -1,5 +1,8 @@
-<h1> Hi everyone! </h1>
-
+<h1> Hi everyone!, my name is Mora Ramirez, Juan Pablo 
+</h1>
+<h1>
+  👨‍💻 Systems and Computing Engineer | Software Developer
+</h1>
 <h2> Who am I? </h2>
 
 ```java                                                                       
@@ -36,9 +39,9 @@ return person;
 </h2>
 
 ````
-Juan Pablo Mora Ramírez
+Juan Pablo Mora Ramirez
 
-Systems and Computer Engineering – Universidad del Quindío 🇨🇴
+Systems and Computer Engineer – Universidad del Quindío 🇨🇴
 
 I am a Colombian Systems and Computer Engineer from Universidad del Quindío, with strong knowledge in software development,
 databases, and mathematical algorithms. I’m passionate about building technology-driven solutions that create value and
@@ -201,18 +204,6 @@ to keep delivering meaningful impact.
 📫 How to reach me: [juanxy90@hotmail.com](mailto:juanxy90@hotmail.com)
 
 </div>
-
-
-
-
-# Juan Pablo Mora Ramirez
-
-## 👨‍💻 Systems and Computing Engineer | Software Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-m-34440b127/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanxy90)
-
----
 
 ### 🚀 About Me
 
