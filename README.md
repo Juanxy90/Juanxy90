@@ -157,7 +157,7 @@ contributing to impactful software projects.
 
 <h2 align="right" 
 
-🏆 Certifications & Achievements
+🏅 Certifications & Achievements
 
 </h2>
 
