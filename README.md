@@ -43,25 +43,31 @@ Juan Pablo Mora Ramirez
 
 Systems and Computer Engineer – University of Quindío 🇨🇴
 
-Systems and Computing Engineer from Universidad del Quindío, Colombia, with experience in software development and technology
-project management. I’m passionate about innovation and collaboration, and I seek opportunities to apply my technical
-expertise and soft skills in dynamic and challenging environments.
+Systems and Computing Engineer from Universidad del Quindío, Colombia, with
+experience in software development and technology project management. I’m
+passionate about innovation and collaboration, and I seek opportunities to
+apply my technical expertise and soft skills in dynamic and challenging
+environments.
 
-I have a solid foundation in Java, databases, information systems, and mathematical algorithms. My background also includes
-business management, allowing me to approach technology projects with both a technical and strategic mindset. Proficient in
-agile methodologies and collaboration tools, I adapt quickly to new technologies while always aiming for efficient,
+I have a solid foundation in Java, databases, information systems, and
+mathematical algorithms. My background also includes business management,
+allowing me to approach technology projects with both a technical and
+strategic mindset. Proficient in agile methodologies and collaboration tools,
+I adapt quickly to new technologies while always aiming for efficient,
 high-quality solutions.
 
-🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
+🔭 I'm currently working on expanding my knowledge in microservices and advanced
+design patterns.
 🎯 Goals: Master advanced algorithms and contribute to open-source projects.
 🧠 Deeply interested in continuous learning and solving complex problems.
 🌍 Intermediate level in English 🇺🇸 | Native Spanish speaker 🇪🇦.
 
-I'm focused on continuous growth, working with multidisciplinary teams, and contributing to impactful software projects.
+I'm focused on continuous growth, working with multidisciplinary teams, and
+contributing to impactful software projects.
 
 ````
 
-<h2 align="center" 
+<h2 align="left" 
 
 ---
 ---
@@ -128,12 +134,11 @@ I'm focused on continuous growth, working with multidisciplinary teams, and cont
 <div align="center">
 
 ![Juanxy90's Stats](https://github-readme-stats.vercel.app/api?username=Juanxy90&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Juanxy90&theme=midnight-purple&hide_border=true)
 
 </div>
 
-<h2 align="right" 
+<h2 align="left" 
 
 ---
 ---
@@ -148,16 +153,15 @@ I'm focused on continuous growth, working with multidisciplinary teams, and cont
 
 </div>
 
-
 ---
 
-<h2 align="left" 
+<h2 align="right" 
 
 🏆 Certifications & Achievements
 
 </h2>
 
-<h2 align="right" 
+<h2 align="left" 
 
 ---
 ---
@@ -208,7 +212,7 @@ I'm focused on continuous growth, working with multidisciplinary teams, and cont
 
 ---
 
-<h2 align="left" 
+<h2 align="right" 
 
 ---
 
