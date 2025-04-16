@@ -1,7 +1,7 @@
-<h1> Hi everyone!, my name is Mora Ramirez, Juan Pablo 
-</h1>
-<h1>
+<h1> Hi everyone! 👋, my name is Mora Ramirez, Juan Pablo 
+<br>
   👨‍💻 Systems and Computing Engineer | Software Developer
+</br>
 </h1>
 <h2> Who am I? </h2>
 
@@ -22,8 +22,8 @@ public static Person characteristics (Gender pronouns, String name,
 
 System.out.println("""
 
-                       If you can imagine it, you can program it
-                                                                  - Alan Kay
+                       "If you can imagine it, you can program it."
+                                                                    - Alan Kay
 
                    """);
 
