@@ -3,7 +3,7 @@
   👨‍💻 Systems and Computing Engineer | Software Developer
 </br>
 </h1>
-<h2> 🤷‍♂️ Who am I? </h2>
+<h2> 🤷‍♂️ Who am I?: </h2>
 
 ```java                                                                       
 public static Person characteristics (Gender pronouns, String name,
@@ -34,7 +34,7 @@ return person;
 
 <h2 align = "right" 
   
-🚀 About Me
+🚀 About Me:
 
 </h2>
 
@@ -143,7 +143,7 @@ contributing to impactful software projects.
 ---
 ---
 
-🏆 GitHub Trophies
+🏆 GitHub Trophies:
   
 </h2>
 
@@ -157,7 +157,7 @@ contributing to impactful software projects.
 
 <h2 align="right" 
 
-🏅 Certifications & Achievements
+🏅 Certifications & Achievements:
 
 </h2>
 
@@ -166,7 +166,7 @@ contributing to impactful software projects.
 ---
 ---
 
-🔝 Top Contributed Repo
+🔝 Top Contributed Repo:
   
 </h2>
 
@@ -184,7 +184,7 @@ contributing to impactful software projects.
 
 <h2 align="right"
 
-📚 Featured Projects
+📚 Featured Projects:
 
 </h2>
 
@@ -200,7 +200,7 @@ contributing to impactful software projects.
 ---
 ---
 
-✍️ Random Dev Quote
+✍️ Random Dev Quote:
   
 </h2>
 
@@ -248,7 +248,7 @@ contributing to impactful software projects.
 
 <h2 align="left" 
 
-🐍 Contribution Graph
+🐍 Contribution Graph:
 
 </h2>
 
