@@ -48,8 +48,9 @@ project management. I’m passionate about innovation and collaboration, and I s
 and soft skills in dynamic and challenging environments.
 
 I have a solid foundation in Java, databases, information systems, and mathematical algorithms. My background also includes
-business management, allowing me to approach technology projects with both a technical and strategic mindset. Proficient in agile
-methodologies and collaboration tools, I adapt quickly to new technologies while always aiming for efficient, high-quality solutions.
+business management, allowing me to approach technology projects with both a technical and strategic mindset. Proficient in
+agile methodologies and collaboration tools, I adapt quickly to new technologies while always aiming for efficient,
+high-quality solutions.
 
 🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
 🎯 2025 Goals: Master advanced algorithms and contribute to open-source projects.
