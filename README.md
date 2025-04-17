@@ -31,6 +31,7 @@ System.out.println("""
 return person;
 }
 ```
+
 ---
 
 <h2 align = "right" 
@@ -65,10 +66,62 @@ design patterns.
 
 I'm focused on continuous growth, working with multidisciplinary teams, and
 contributing to impactful software projects.
+````
+---
+
+<h2 align = "left" 
+  
+🖥️ Hardware Components:
+
+</h2>
 
 ````
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+ 
+=================================== MY COMPUTER ===================================
 
-<h2 align="left" 
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+* OS: Windows 11 Pro (64-bit)
+* CPU: AMD Ryzen 5 5600x
+* CPU Cooler: Cooler Master Hyper 622 Halo Black Edition ARGB
+* GPU: GIGABYTE GeForce RTX 3060 Gaming OC 12 GB
+* GPU Support: ASUS ROG Strix Herculx Graphics Card Holder
+* Motherboard: ASUS Tuf Gaming X570-PLUS (WI-FI)
+* RAM: Corsair VENGEANCE RGB PRO DDR4 2 x 16 (32 GB) 3600 MHz CL18 Intel XMP 2.0
+  iCUE & TEAMGROUP T-Force DELTA TUF Gaming Alliance RGB DDR4 2 x 8 (16 GB) 3200
+  MHz | (48 GB)
+* SSD: PNY (500 GB)
+* NVMe M.2: Samsung 970 EVO Plus Series (1 TB)
+* PSU: Aerocool Cylon RGB 700w 80+ Bronze
+* Case: Cooler Master MasterBox TD500 Mesh Black (E-ATX)
+* Case Fans: Cooler Master MasterFan MF120 Halo Black Edition ARGB (x4)
+
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+* Monitor: Samsung LF24T35 24” IPS FHD FreeSync 75 Hz
+* Mouse: Redragon Griffin M607 7200 DPI RGB
+* Keyboard: Redragon Vara 551 Mechanical Red Switches RGB (Rainbow)
+* Headphones: VSG Gemini RGB
+
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+==================================== MY LAPTOP ====================================
+
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+* Model: ASUS VivoBook Go 15 (E1504FA)
+* OS: Windows 11 Home (64-bit)
+* CPU: AMD Ryzen 5 7520U (4 cores, 8 threads, up to 4.3 GHz)
+* GPU: Radeon 610M (Integrated)
+* Motherboard: ASUS (Integrated, ultrathin design)
+* RAM: 8 GB LPDDR5 @ 5500 MHz (Onboard)
+* SSD: 512 GB NVMe M.2 PCIe 3.0
+
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+````
+
+<h2 align="right" 
 
 ---
 ---
@@ -125,7 +178,7 @@ contributing to impactful software projects.
 
 <br>
 
-<h2 align="right" 
+<h2 align="left" 
 
 ---
 ---
@@ -141,7 +194,7 @@ contributing to impactful software projects.
 
 </div>
 
-<h2 align="left" 
+<h2 align="right" 
 
 ---
 ---
@@ -158,7 +211,7 @@ contributing to impactful software projects.
 
 ---
 
-<h2 align="right" 
+<h2 align="left" 
 
 🏅 Certifications & Achievements:
 
@@ -170,7 +223,7 @@ contributing to impactful software projects.
 
 </div>
 
-<h2 align="left" 
+<h2 align="right" 
 
 ---
 ---
@@ -191,7 +244,7 @@ contributing to impactful software projects.
 
 ---
 
-<h2 align="right"
+<h2 align="left"
 
 📚 Featured Projects:
 
@@ -203,7 +256,7 @@ contributing to impactful software projects.
 
 </div>
 
-<h2 align="left" 
+<h2 align="right" 
 
 ---
 ---
@@ -220,7 +273,7 @@ contributing to impactful software projects.
 
 ---
 
-<h2 align="right" 
+<h2 align="left" 
 
 ---
 
@@ -254,7 +307,7 @@ contributing to impactful software projects.
 
 ---
 
-<h2 align="left" 
+<h2 align="right" 
 
 🐍 Contribution Graph:
 
