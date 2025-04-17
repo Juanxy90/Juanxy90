@@ -261,7 +261,7 @@ contributing to impactful software projects.
 
 <div align="center">
 
-![snake gif](https://github.com/Juanxy90/Juanxy90/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Juanxy90/Juanxy90/blob/output/github-snake-dark.svg)</br>
 [![](https://visitcountpro.netlify.app/api?id=Juanxy90&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
