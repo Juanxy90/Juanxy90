@@ -3,8 +3,6 @@
 Systems and Computing Engineer 👨🏻‍💻 | Software Developer 📲
 </br>
 
----
-
 </h1>
 <h2> 🤷🏻‍♂️ Who am I?: </h2>
 
