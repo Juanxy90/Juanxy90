@@ -1,6 +1,6 @@
 <h1> Hi everyone! 👋🏻, my name is Juan Pablo 🧔🏻‍♂️
 <br>
-Systems and Computing Engineer 👨🏻‍💻 | Software Developer 📲
+Systems and Computer Engineer 👨🏻‍💻 | Software Developer 📲
 </br>
 </h1>
 
