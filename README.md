@@ -1,9 +1,12 @@
-<h1> Hi everyone! 👋, my name is Juan Pablo
+<h1> Hi everyone! 👋🏻, my name is Juan Pablo 🧔🏻‍♂️
 <br>
-  👨‍💻 Systems and Computing Engineer | Software Developer
+Systems and Computing Engineer 👨🏻‍💻 | Software Developer 📲
 </br>
+
+---
+
 </h1>
-<h2> 🤷‍♂️ Who am I?: </h2>
+<h2> 🤷🏻‍♂️ Who am I?: </h2>
 
 ```java                                                                       
 public static Person characteristics (Gender pronouns, String name,
@@ -207,7 +210,7 @@ contributing to impactful software projects.
 ---
 ---
 
-✍️ Random Dev Quote:
+✍🏻 Random Dev Quote:
   
 </h2>
 
