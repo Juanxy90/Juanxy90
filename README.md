@@ -261,7 +261,7 @@ contributing to impactful software projects.
 
 <div align="center">
 
-![snake gif](https://github.com/diegnghtmr/diegnghtmr/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Juanxy90/Juanxy90/blob/output/github-snake-dark.svg)
 
 </div>
 
