@@ -115,7 +115,7 @@ contributing to impactful software projects.
 * CPU: AMD Ryzen 5 7520U (4 cores, 8 threads, up to 4.3 GHz)
 * GPU: Radeon 610M (Integrated)
 * Motherboard: ASUS (Integrated, ultrathin design)
-* RAM: 8 GB LPDDR5 @ 5500 MHz (Onboard)
+* RAM: 16 GB LPDDR5 @ 5500 MHz (Onboard)
 * SSD: 512 GB NVMe M.2 PCIe 3.0
 
 •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
