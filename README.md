@@ -18,7 +18,7 @@ public static Person characteristics (Gender pronouns, String name,
   person.setName() = "Juan Pablo Mora Ramirez";
   person.setFrom() = "Armenia, Quindío - Colombia";
   person.setEducation = ["Systems and Computer Engineer"];
-  person.getSpecialization.addAll ("Backend", "Frontend", "DataBase");
+  person.getSpecialization.addAll ("Backend", "Frontend", "DataBases");
   person.getHobbies.addAll ("Soccer", "Music", "Progaming", "Gaming", "Study");
 
 System.out.println("""
@@ -143,7 +143,7 @@ Languages:
 
 <h3 align="left"
 
-DataBase:
+DataBases:
 
 </h3>
 
