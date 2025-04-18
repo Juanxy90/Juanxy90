@@ -71,7 +71,7 @@ contributing to impactful software projects.
 
 <h2 align = "left" 
   
-🖥️ Hardware Components:
+🖱️ Hardware Components:
 
 </h2>
 
