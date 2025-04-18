@@ -130,31 +130,31 @@ contributing to impactful software projects.
   
 </h2>
 
-<h4 align="left"
+<h3 align="left"
 
 Languages:
 
-</h4>
+</h3>
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h4 align="left"
+<h3 align="left"
 
 DataBase:
 
-</h4>
+</h3>
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h4 align="left"
+<h3 align="left"
 
 Frameworks:
 
-</h4>
+</h3>
 
 <div align="center">
 
@@ -162,24 +162,24 @@ Frameworks:
 
 </div>
 
-<h4 align="left"
+<h3 align="left"
 
 IDE's:
 
 <div align="center">
 
-</h4>
+</h3>
 
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 </div>
 
-<h4 align="left"
+<h3 align="left"
 
 Tools:
 
-</h4>
+</h3>
 
 <div align="center">
 
@@ -197,11 +197,11 @@ Tools:
 
 </div>
 
-<h4 align="left"
+<h3 align="left"
 
 Trademarks:
 
-</h4>
+</h3>
 
 <div align="center">
 
@@ -211,11 +211,11 @@ Trademarks:
 
 </div>
 
-<h4 align="left"
+<h3 align="left"
 
 Platforms:
 
-</h4>
+</h3>
 
 <div align = "center">
 
