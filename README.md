@@ -218,7 +218,7 @@ contributing to impactful software projects.
 
 <div align="center">
 
-## In the future...
+In the future...
 
 </div>
 
