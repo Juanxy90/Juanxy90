@@ -168,13 +168,12 @@ contributing to impactful software projects.
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 </div>
 
-<h4 align = "center"
+<div align = "center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanxy90&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=juanxy90&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</h4>
+<div>
 
 <br>
 
@@ -281,7 +280,7 @@ contributing to impactful software projects.
   
 </h2>
 
-<h3 align= "center"
+<div align= "center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juanxy90)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanxy90@hotmail.com)
@@ -301,9 +300,8 @@ contributing to impactful software projects.
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Juanxy90)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Juanxy90)
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Juanxy90)
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-</h3>
+</div>
 
 ---
 
