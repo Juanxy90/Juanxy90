@@ -199,12 +199,6 @@ Tools:
 
 </div>
 
-<h4 align = "center"
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZLeviatan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-
-
-
 <h3 align="left"
 
 Trademarks:
