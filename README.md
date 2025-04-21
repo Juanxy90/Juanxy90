@@ -7,12 +7,12 @@ Systems and Computer Engineer 👨🏻‍💻 | Software Developer 📲
 <h2> 🤷🏻‍♂️ Who am I?: </h2>
 
 ```java                                                                       
-public static Person characteristics (Gender pronouns, String name,
+public static Animal characteristics (Gender pronouns, String name,
                                         Education education, String from,
                                               ArrayList<String> specialization,
                                                       ArrayList<String> hobbies) {
 
-  Person person = new Person();
+  Person person = new Animal();
 
   person.setPronouns() = "He", "His";
   person.setName() = "Juan Pablo Mora Ramirez";
