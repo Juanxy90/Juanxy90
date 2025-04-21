@@ -14,12 +14,12 @@ public static Animal characteristics (Gender pronouns, String name,
 
   Person person = new Animal();
 
-  person.setPronouns() = "He", "His";
-  person.setName() = "Juan Pablo Mora Ramirez";
-  person.setFrom() = "Armenia, Quindío - Colombia";
-  person.setEducation = ["Systems and Computer Engineer"];
-  person.getSpecialization.addAll ("Backend", "Frontend", "DataBases");
-  person.getHobbies.addAll ("Soccer", "Music", "Progaming", "Gaming", "Study");
+  animal.setPronouns() = "He", "His";
+  animal.setName() = "Juan Pablo Mora Ramirez";
+  animal.setFrom() = "Armenia, Quindío - Colombia";
+  animal.setEducation = ["Systems and Computer Engineer"];
+  animal.getSpecialization.addAll ("Backend", "Frontend", "DataBases");
+  animal.getHobbies.addAll ("Soccer", "Music", "Progaming", "Gaming", "Study");
 
 System.out.println("""
 
