@@ -12,7 +12,7 @@ public static Animal characteristics (Gender pronouns, String name,
                                               ArrayList<String> specialization,
                                                       ArrayList<String> hobbies) {
 
-  Person person = new Animal();
+  Animal animal = new Animal();
 
   animal.setPronouns() = "He", "His";
   animal.setName() = "Juan Pablo Mora Ramirez";
@@ -28,7 +28,7 @@ System.out.println("""
 
                    """);
 
-return person;
+return animal;
 }
 ```
 
