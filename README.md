@@ -12,14 +12,14 @@ public static Animal characteristics (Gender pronouns, String name,
                                               ArrayList<String> specialization,
                                                       ArrayList<String> hobbies) {
 
-  Animal animal = new Animal();
+  Person person = new Person();
 
-  animal.setPronouns() = "He", "His";
-  animal.setName() = "Juan Pablo Mora Ramirez";
-  animal.setFrom() = "Armenia, Quindío - Colombia";
-  animal.setEducation = ["Systems and Computer Engineer"];
-  animal.getSpecialization.addAll ("Backend", "Frontend", "DataBases");
-  animal.getHobbies.addAll ("Soccer", "Music", "Progaming", "Gaming", "Study");
+  person.setPronouns() = "He", "His";
+  person.setName() = "Juan Pablo Mora Ramirez";
+  person.setFrom() = "Armenia, Quindío - Colombia";
+  person.setEducation = ["Systems and Computer Engineer"];
+  person.getSpecialization.addAll ("Backend", "Frontend", "DataBases");
+  person.getHobbies.addAll ("Soccer", "Music", "Progaming", "Gaming", "Study");
 
 System.out.println("""
 
@@ -28,7 +28,7 @@ System.out.println("""
 
                    """);
 
-return animal;
+return person;
 }
 ```
 
