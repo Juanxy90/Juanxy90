@@ -319,6 +319,7 @@ In the future...
 <div align="center">
 
 [![Repo Juanxy90](https://github-readme-stats.vercel.app/api/pin/?username=Juanxy90&repo=Juanxy90&theme=midnight-purple)](https://github.com/Juanxy90/Juanxy90)
+[![Repo Juanxy90](https://github-readme-stats.vercel.app/api/pin/?username=Juanxy90&repo=SleepCare-Clinic&theme=midnight-purple)](https://github.com/Juanxy90/SleepCare-Clinic)
 
 </div>
 
