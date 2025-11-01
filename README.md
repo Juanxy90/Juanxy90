@@ -43,9 +43,9 @@ return person;
 ````
 Juan Pablo Mora Ramirez
 
-Systems and Computer Engineer – University of Quindío 🇨🇴
+Systems and Computer Engineer – University of Quindío (CO)
 
-Systems and Computing Engineer from Universidad del Quindío, Colombia, with
+Systems and Computing Engineer from University of Quindío, Colombia, with
 experience in software development and technology project management. I’m
 passionate about innovation and collaboration, and I seek opportunities to
 apply my technical expertise and soft skills in dynamic and challenging
