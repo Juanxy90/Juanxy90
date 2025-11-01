@@ -237,7 +237,7 @@ Platforms:
 <br>
 </br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanxy90&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanxy90&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=juanxy90&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div>
@@ -388,6 +388,11 @@ In the future...
 <div align="center">
 
 ![snake gif](https://github.com/Juanxy90/Juanxy90/blob/output/github-snake-dark.svg)</br>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Juan Pablo Mora Ramirez's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juanxy90&bg_color=1a1b27&color=79d3c3&line=c792ea&point=ffc886&area=true&hide_border=true" />
+  </a>
+
 [![](https://visitcountpro.netlify.app/api?id=Juanxy90&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
