@@ -304,10 +304,6 @@ In the future...
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Juanxy90&icon=9&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ---
 
 <h2 align="left"
