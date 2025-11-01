@@ -389,9 +389,11 @@ In the future...
 
 ![snake gif](https://github.com/Juanxy90/Juanxy90/blob/output/github-snake-dark.svg)</br>
 
+<p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Juan Pablo Mora Ramirez's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juanxy90&bg_color=1a1b27&color=79d3c3&line=c792ea&point=ffc886&area=true&hide_border=true" />
   </a>
+</p>
 
 [![](https://visitcountpro.netlify.app/api?id=Juanxy90&pretty=true)](https://visitcount.itsvg.in)
 
